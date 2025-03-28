@@ -1,24 +1,17 @@
 # Sales-Data-Analysis
 A sales data analysis project using Python (Pandas, Matplotlib) and Power BI for data visualization.
-
-## Sales Data Analysis using Python & Power BI  
-
-This project analyzes **supermarket sales data** using **Python (Pandas, Matplotlib)** and **Power BI** to extract key business insights.
-
 ---
 
 📌 **Features:**
 - Data Cleaning & Processing in Python
 - Sales Trends & Customer Insights  
 - Power BI Dashboard with Interactive Visualizations  
-
 ---
 
  🔧 Technologies Used:
 - **Python:** Pandas, Matplotlib  
 - **Power BI:** Data Visualization  
 - **Dataset:** Supermarket Sales  
-
 ---
 
 ### 📊 Python Analysis (`sales_analysis.py`)
@@ -47,5 +40,4 @@ This project analyzes **supermarket sales data** using **Python (Pandas, Matplot
 - **Branch Slicer** (Filter data by branch)  
 - **Total Transactions (Card Visual)**  
 - **Average Customer Rating (Card Visual)**  
-
 ---
