@@ -41,3 +41,5 @@ A sales data analysis project using Python (Pandas, Matplotlib) and Power BI for
 - **Total Transactions (Card Visual)**  
 - **Average Customer Rating (Card Visual)**  
 ---
+
+![Power BI Dashboard](images/Supermarket_Sales_Analysis.png)
